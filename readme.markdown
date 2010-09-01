@@ -39,4 +39,4 @@ The software which I have written is released under the terms of a permissive zl
     
 Scenario License:
 -----------------
-All scenario content, artwork, music is released under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 license, which [you can (and should) read about here](http://creativecommons.org/licenses/by-nc-sa/3.0/). These terms may be revised, depending on the wishes of other contributors. But this is how things are for now.
+All scenario content, artwork, music is released under a *Creative Commons Attribution-NonCommercial-ShareAlike 3.0 license*, which you can (and should) [read about here](http://creativecommons.org/licenses/by-nc-sa/3.0/). These terms may be revised, depending on the wishes of other contributors. But this is how things are for now.
