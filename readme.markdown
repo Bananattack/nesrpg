@@ -14,7 +14,7 @@ Software License:
 -----------------
 The software which I have written is released under the terms of a permissive zlib license, which is described below. These terms may be revised.
 
-**Note: All software that I have written, I release under the terms of the following license. However, artwork, music and scenarios are under different licensing terms (see Scenario License).**
+**Note: All software that I have written, I release under the terms of the following license. However, artwork, music and scenarios are under different licensing terms (see Scenario License). Yes, any data that is scenario-related within the software, I release under a separate license.**
 
     Copyright (c) 2010 Andrew G. Crowell
 
