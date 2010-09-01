@@ -13,6 +13,7 @@ I intend to target the [MMC3 mapper](http://wiki.nesdev.com/w/index.php/MMC3), s
 Software License:
 -----------------
 The software which I have written is released under the terms of a permissive zlib license, which is described below. These terms may be revised.
+
 **Note: All software that I have written, I release under the terms of the following license. However, artwork, music and scenarios are under different licensing terms (see Scenario License).**
 
     Copyright (c) 2010 Andrew G. Crowell
