@@ -1,0 +1,20 @@
+    .db 4 ; height 
+    ; frame 0
+    .db $00, OAM_ATTR_PAL_0
+    .db $01, OAM_ATTR_PAL_0
+    .db $10, OAM_ATTR_PAL_0
+    .db $11, OAM_ATTR_PAL_0
+    .db $20, OAM_ATTR_PAL_1
+    .db $21, OAM_ATTR_PAL_1
+    .db $30, OAM_ATTR_PAL_0
+    .db $31, OAM_ATTR_PAL_0
+    ; frame 1
+    .db $00, OAM_ATTR_PAL_0
+    .db $01, OAM_ATTR_PAL_0
+    .db $40, OAM_ATTR_PAL_0
+    .db $41, OAM_ATTR_PAL_0
+    .db $20, OAM_ATTR_PAL_1
+    .db $21, OAM_ATTR_PAL_1
+    .db $30, OAM_ATTR_PAL_0
+    .db $31, OAM_ATTR_PAL_0
+    
